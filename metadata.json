@@ -1,0 +1,5 @@
+{
+  "name": "Colorful Calculator",
+  "description": "A visually appealing, modern calculator web application built with React and Tailwind CSS. It supports basic arithmetic operations with a responsive and colorful user interface.",
+  "requestFramePermissions": []
+}
